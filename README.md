@@ -183,3 +183,6 @@ ThinkPHP® 商标和著作权所有者为上海顶想信息科技有限公司。
 
 http://doc.wemall.com.cn/web/#/item/index  （105807174@qq.com）
 
+## tp5快速入门
+
+https://www.kancloud.cn/thinkphp/thinkphp5_quickstart/478305
