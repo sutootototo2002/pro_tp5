@@ -15,7 +15,7 @@ return [
     // 服务器地址
     'hostname'        => '120.78.229.228',
     // 数据库名
-    'database'        => 'mydata',
+    'database'        => 'tp5',
     // 用户名
     'username'        => 'root',
     // 密码
