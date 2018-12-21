@@ -179,5 +179,7 @@ ThinkPHP® 商标和著作权所有者为上海顶想信息科技有限公司。
 
 更多细节参阅 [LICENSE.txt](LICENSE.txt)
 
-接口文档地址 http://doc.wemall.com.cn/web/#/item/index  （105807174@qq.com）
+##接口文档地址 
+
+http://doc.wemall.com.cn/web/#/item/index  （105807174@qq.com）
 
