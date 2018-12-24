@@ -17,6 +17,7 @@ Route::get('index', 'index/index');
 Route::get('login', 'login/login');
 Route::get('singin', 'singin/singin');
 Route::get('singup', 'singup/singup');
+Route::get('forget', 'forget/forget');
 
 return [
 
